@@ -17,7 +17,7 @@ Developed an interactive **Power BI dashboard** to analyze sales, revenue, and c
 - Excel / CSV Handling
 
 ## Screenshots
-![Dashboard Page 1](dashboard_page1 .PNG)
+![Dashboard Page 1](dashboard_page1.PNG)
 
 ## File
 - `Sales_Revenue_Analytics.pbix` – Power BI Desktop file
